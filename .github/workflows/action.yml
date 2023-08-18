@@ -1,0 +1,34 @@
+name: MySQL TEST CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    services:
+      db:
+        image: mysql:8.0
+        ports:
+          - 3306:3306
+        env:
+          MYSQL_ROOT_PASSWORD: ${{secrets.ROOT_DB_PASS}}
+          MYSQL_DATABASE: playground
+          MYSQL_USER: develop
+          MYSQL_PASSWORD: ${{secrets.DB_PASS}}
+        options: >-
+          --health-cmd "mysqladmin ping"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+    steps:
+      - name: Show Docker containers
+        run: docker ps -a
+      - uses: actions/checkout@v3
+      - name: Show databases for root user
+        run: mysql --protocol=tcp -h localhost -P 3306 -u root -p${{secrets.ROOT_DB_PASS}} -e "show databases"
+      - name: init table
+        run: mysql --protocol=tcp -h localhost -P 3306 -u root -p${{secrets.ROOT_DB_PASS}} -D playground < ./initdb.d/schema.sql
+      - name: Show DB table
+        run: |
+          mysql --protocol=tcp -h localhost -P 3306 -u root -p${{secrets.ROOT_DB_PASS}} -D playground -e "show tables"
