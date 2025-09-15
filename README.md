@@ -1,5 +1,5 @@
 ## Professional Profile
-![DSC_0205](https://github.com/Ryu010101/Ryu010101/assets/30864684/e2c2f8d2-0883-4bb5-9fa9-50be2ef75914)
+<img width="2559" height="925" alt="スクリーンショット 2025-09-15 184810" src="https://github.com/user-attachments/assets/c59d6e89-9247-44e0-904b-7f67ddc52c7b" />
 
 ### Name: Ryunosuke Suehiro (Ryu)
 ### Education: Specialized in Sound Techniques, Sapporo Visual Arts School
