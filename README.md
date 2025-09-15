@@ -5,38 +5,53 @@
 ### Education: Specialized in Sound Techniques, Sapporo Visual Arts School
 ### Location: Tokyo, Originally from Hokkaido
 
-### IT Developer Journey
-- Weekdays: Freelance IT Developer (6 years in the game)
-- Recent endeavors include backend wizardry, crafting APIs, refactoring, security enhancements, and more.
-- Vast experience spans frontend development and infrastructure solutions with a successful track record of tech support.
-- Proficient in end-to-end processes: from initial design to development, testing, maintenance, and tech consultation.
-### Highlights
-- Robust coding skills covering the full spectrum from design to maintenance.
-- Effective communicator within project teams, fueled by prior experience in recruitment and business development.
 
-### Sonic Voyager as Singer-Songwriter
-- Weekends: Singer-Songwriter (16 years and counting)
-- Crafting original tunes with DTM, distributing them via subscriptions, and sharing vocal covers on social media.
-- Launched my musical voyage at Sapporo's Tanuki Koji Shopping Street, transitioning into indie labels in Tokyo.
-- Presently, I'm an independent entity, continuing to embark on my artistic journey.
-### Highlights
-- Signature blend: Aggressive fusion of Progressive Metal and EDM, driven by analog-digital synergy.
-- My musical roots are nurtured by the influences of "DGM," "avicii," "BUMP OF CHICKEN," and "Mr.Children."
+## **Career as an IT Developer**
 
-### Hobbies
-- Passion for mountaineering and travel.
-- Annual conquest of Mount Fuji and journeys across Japan using the Seishun 18 Ticket.
-- Enthusiast of hot springs, often unwinding at Tokyo's finest on weekends.
+I have been working as a freelance IT developer for **6 years**. My recent work focuses on technical support for various projects, including:
 
-### In Conclusion
-Daily life commences to the rhythm of melodies, while weekends guide me to summits and picturesque scenes.
-Challenging the uncharted, I strive for constant growth. I infuse positivity and adventurous spirit into my music.
+* Backend development
+* New API and maintenance development
+* Refactoring and security enhancements
 
-Music, the language of emotions unspoken, conveys sentiments beyond words. Meanwhile, mountain climbing and travel refresh my spirit, fostering novel ideas.
+I also have extensive experience in frontend development and infrastructure, with a track record of past technical contributions. I can handle a wide range of tasks, from **basic design to development, testing, maintenance, and technical consulting**.
 
-On social media, I share daily joys and inspirations, cherishing connections with you. Join me on new adventures ahead.
+**Strengths:**
+* Strong development skills, from basic design to maintenance.
+* Excellent communication skills within project teams, backed by my previous experience in human resources and sales.
 
-So, let's embark on this journey through music and landscapes together. If you're intrigued, reach out and connect. Much appreciated!
+
+## **Activities as a Singer-Songwriter**
+
+On weekends, I am a singer-songwriter with **16 years of experience**.
+
+* I primarily create original music using DTM (Desktop Music) and distribute it on streaming services. I also post "cover song" videos on social media.
+* My career started with street performances in the Tanukikoji shopping arcade in Sapporo, Hokkaido.
+* After performing at numerous live shows and events, I joined an indie label in Tokyo.
+* Currently, I have founded my own independent label, effectively returning to a freelance career.
+
+**Music Style:**
+* Aggressive sound that combines progressive metal and EDM.
+* My musical concept is the fusion of analog and digital sounds, rooted in influences like **DGM, Avicii, BUMP OF CHICKEN, and Mr.Children**.
+
+
+## **Hobbies**
+
+* My hobbies include **mountain climbing and traveling**.
+* I climb Mt. Fuji annually.
+* I have traveled across Japan using the Seishun 18 Kippu and enjoy exploring Tokyo's surrounding areas.
+* I am also a fan of hot springs and enjoy visiting them on my weekends off.
+
+
+## **A Final Note**
+
+My weekdays begin with the melody of sound, while my weekends are spent chasing summits and stunning landscapes. I am always seeking new challenges and striving for continuous growth. I pour positive emotions and a spirit of adventure into my music.
+
+Music is a way for me to express feelings that words cannot, while climbing and traveling are spaces to reset my mind and nurture new ideas. I love sharing my daily joys and discoveries on social media, and I value the connections I make with you.
+
+Let's embark on this journey together—through music and landscapes. If you're interested in connecting, please feel free to reach out!
+
+
 
 ## プロフィール
 
