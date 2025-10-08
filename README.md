@@ -1,4 +1,4 @@
-## Professional Profile
+# Professional Profile
 <img width="2559" height="925" alt="スクリーンショット 2025-09-15 184810" src="https://github.com/user-attachments/assets/c59d6e89-9247-44e0-904b-7f67ddc52c7b" />
 
 ### Name: Ryunosuke Suehiro (Ryu)
@@ -7,49 +7,30 @@
 
 
 ## **Career as an IT Developer**
-
-I have been working as a freelance IT developer for **6 years**. My recent work focuses on technical support for various projects, including:
-
-* Backend development
-* New API and maintenance development
-* Refactoring and security enhancements
-
-I also have extensive experience in frontend development and infrastructure, with a track record of past technical contributions. I can handle a wide range of tasks, from **basic design to development, testing, maintenance, and technical consulting**.
+For the past six years, I've worked as a freelance IT developer, building elegant and robust digital solutions. My expertise lies in backend systems—designing APIs, refactoring code for peak performance, and implementing security enhancements. However, I am a versatile developer with extensive experience in front-end and infrastructure as well, comfortable across the entire project lifecycle, from the initial design blueprint to long-term maintenance.
 
 **Strengths:**
-* Strong development skills, from basic design to maintenance.
-* Excellent communication skills within project teams, backed by my previous experience in human resources and sales.
+* **Versatile Full-Stack Development:** Proficient in backend, front-end, and infrastructure, with a proven ability to manage projects from initial concept to final deployment and support.
+* **Communication as a Core Skill:** A firm believer that clear communication is as crucial as clean code. My background in technical sales helps me bridge the gap between technical and non-technical teams, ensuring everyone is aligned.
 
 
 ## **Activities as a Singer-Songwriter**
-
-On weekends, I am a singer-songwriter with **16 years of experience**.
-
-* I primarily create original music using DTM (Desktop Music) and distribute it on streaming services. I also post "cover song" videos on social media.
-* My career started with street performances in the Tanukikoji shopping arcade in Sapporo, Hokkaido.
-* After performing at numerous live shows and events, I joined an indie label in Tokyo.
-* Currently, I have founded my own independent label, effectively returning to a freelance career.
+Music has been my companion for 16 years. My journey began on the streets of Sapporo, a path that led me to performing on stages across Tokyo and eventually signing with an indie record label. After three years of valuable experience, I knew I needed to forge my own path to create with complete authenticity. Today, I run my own independent label, giving me the freedom to produce music that is truly honest and uniquely mine.
 
 **Music Style:**
-* Aggressive sound that combines progressive metal and EDM.
-* My musical concept is the fusion of analog and digital sounds, rooted in influences like **DGM, Avicii, BUMP OF CHICKEN, and Mr.Children**.
+* **A high-energy fusion of Rock, Progressive Metal, and EDM.** I aim to create a unique soundscape inspired by a diverse range of artists, including **DGM, Avicii, BUMP OF CHICKEN, and Mr.Children.**
 
 
 ## **Hobbies**
-
-* My hobbies include **mountain climbing and traveling**.
-* I climb Mt. Fuji annually.
-* I have traveled across Japan using the Seishun 18 Kippu and enjoy exploring Tokyo's surrounding areas.
-* I am also a fan of hot springs and enjoy visiting them on my weekends off.
+When I'm not coding or composing, I'm exploring the world around me. I am an avid mountain climber and make an annual pilgrimage to the summit of Mt. Fuji. I love the freedom of the open road (and rail!), having crossed Japan on the "Seishun 18 Kippu" ticket. On weekends, you can often find me unwinding and recharging at a local Onsen (hot spring) in Tokyo.
 
 
 ## **A Final Note**
+My life is a constant adventure, from the melodies that shape my daily routine to the mountain peaks I climb on weekends. I pour this sense of wonder and positivity into my music, which serves as a voice for feelings that words alone can't capture. For me, hiking and traveling are a form of meditation—a way to reset my mind and find fresh inspiration.
 
-My weekdays begin with the melody of sound, while my weekends are spent chasing summits and stunning landscapes. I am always seeking new challenges and striving for continuous growth. I pour positive emotions and a spirit of adventure into my music.
+I love sharing these moments and connecting with new people. If you're interested in my work, collaborating on a project, or just sharing stories, I'd love to hear from you.
 
-Music is a way for me to express feelings that words cannot, while climbing and traveling are spaces to reset my mind and nurture new ideas. I love sharing my daily joys and discoveries on social media, and I value the connections I make with you.
-
-Let's embark on this journey together—through music and landscapes. If you're interested in connecting, please feel free to reach out!
+Let's start a new adventure together.
 
 
 
@@ -70,13 +51,14 @@ Let's embark on this journey together—through music and landscapes. If you're 
 - PJチーム間でのコミュニケーション能力が高く、人材派遣の営業経験も
 
 ### シンガーソングライターとしての活動
-- 週末はシンガーソングライター（活動歴16年目）
-- 主にDTMでオリジナル曲を作成し、サブスクリプションで配信、SNSで歌ってみたを投稿
+- 週末シンガーソングライター（活動歴16年目）
+- 主にDTMでオリジナル曲を作成し、サブスクリプションで配信を行う
+- 近年は、SNSで即興ソングショート動画を投稿
 - 北海道札幌市の狸小路商店街でのストリートライブライブからキャリアスタート
--  ライブやイベント出演経験を重ね都内のインディーズレーベルへ所属
--  現在は個人レーベルを立ち上げ事実上再びフリーへ
+- ライブやイベント出演経験を重ね都内のインディーズレーベルへ所属
+- 約3年間の所属を経て、より自由により正直な表現活動を突き詰めるため、現在は個人レーベルを立ち上げ再びフリーランスへ
 ### 特徴
-- プログレッシブメタルとEDMを組み合わせたアグレッシブな曲が特徴
+- ロックやプログレッシブメタルとEDMを組み合わせたようなアグレッシブな曲が特徴
 - アナログとデジタルの融合サウンドをコンセプトに持ち、音楽性のルーツは「DGM」「avicii」「BUMP OF CHICKEN」「Mr.Children」
 
 ### 趣味
