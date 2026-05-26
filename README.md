@@ -1,3 +1,30 @@
+# Godo Kaisha NodeChord / 合同会社NodeChord
+## 🏢 Corporate Profile / 法人概要
+**Godo Kaisha NodeChord** is a multi-disciplinary company operating in IT system development and music content production, founded to sublimate long-standing freelance and creative expertise into corporate-grade reliability.
+
+**合同会社NodeChord**は、長年のフリーランスとしての技術支援実績およびクリエイティブ活動を基盤に、ITシステム開発・保守、および音楽コンテンツ制作事業を展開する法人です。
+
+* **Representative / 代表社員:** Ryunosuke Suehiro (末廣 竜之助)
+* **Established / 設立:** May 2026 (2026年5月)
+* **Core Businesses / 事業内容:**
+  * 💻 IT Engineering, Cloud Architecture, & Backend Development
+  * 🎵 Music Production, DTM, Sound Design, & Independent Label Management
+
+
+
+## 🔗 Official Links & Portfolio / 実績・活動リンク
+当法人の事業実態およびポートフォリオは、以下の公式チャンネルおよび本READMEの詳細セクションよりご確認いただけます。
+
+* **🎵 Music Production & Release**
+  * [YouTube Channel: 音楽活動・MV等](https://www.youtube.com/channel/UCV8-dx5Z_JScgiERECl4P-w)
+  * [SNS: インスタグラム](https://www.instagram.com/ryunosuke.suehiro/)
+  * [Single Release: 「キミだけの未踏へ」配信リンク](https://www.youtube.com/watch?v=eGLjZdnbh-c)
+  * [その他の配信リンク](https://ryu.theblog.me/)
+* **💻 IT Development**
+  * Scroll down to see my OSS contributions, repositories, and full tech stack. / 本ページ下部に開発実績・技術スタックを記載しています。
+
+---
+
 # Professional Profile
 <img width="2559" height="925" alt="スクリーンショット 2025-09-15 184810" src="https://github.com/user-attachments/assets/c59d6e89-9247-44e0-904b-7f67ddc52c7b" />
 
@@ -32,7 +59,7 @@ I love sharing these moments and connecting with new people. If you're intereste
 
 Let's start a new adventure together.
 
-
+---
 
 ## プロフィール
 
