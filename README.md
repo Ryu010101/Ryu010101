@@ -16,9 +16,9 @@
 当法人の事業実態およびポートフォリオは、以下の公式チャンネルおよび本READMEの詳細セクションよりご確認いただけます。
 
 * **🎵 Music Production & Release**
+  * [Single Release: 「キミだけの未踏へ」配信リンク](https://www.youtube.com/watch?v=eGLjZdnbh-c)
   * [YouTube Channel: 音楽活動・MV等](https://www.youtube.com/channel/UCV8-dx5Z_JScgiERECl4P-w)
   * [SNS: インスタグラム](https://www.instagram.com/ryunosuke.suehiro/)
-  * [Single Release: 「キミだけの未踏へ」配信リンク](https://www.youtube.com/watch?v=eGLjZdnbh-c)
   * [その他の配信リンク](https://ryu.theblog.me/)
 * **💻 IT Development**
   * Scroll down to see my OSS contributions, repositories, and full tech stack. / 本ページ下部に開発実績・技術スタックを記載しています。
