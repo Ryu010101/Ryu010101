@@ -15,9 +15,10 @@ For the past seven years, I've worked as a freelance IT developer, building eleg
 * **Communication as a Core Skill:** A firm believer that clear communication is as crucial as clean code. My background in technical sales helps me bridge the gap between technical and non-technical teams, ensuring everyone is aligned.
 
 ### 🛠 Tech Stack & Tools
-* **Backend & Cloud:** Java, Spring Cloud GCP, BigQuery, API Design
-* **Dev Environment:** VS Code, Git, GitHub
-* **Creative & Media:** DTM, DaVinci Resolve, RunwayML
+* **Frontend:** JavaScript, Typescript, Vue, React, Material UI, Storybook, Figma
+* **Backend & Cloud:** C, Java, Python, Spring, AWS, GCP, BigQuery, API Design, CF, MySQL, PostgreSQL, flyway
+* **Dev Environment:** VS Code, Git, GitHub, GitHubActions, Docker, Act, slack, Open VPN, Postman, miro, notion, npm, yarn, pnpm, openapi
+* **Creative & Media:** Sonar, Cubase, DaVinci Resolve, RunwayML
 
 ---
 
@@ -80,11 +81,15 @@ I love sharing these moments and connecting with new people. If you're intereste
 * 温泉巡りも好きで、週末のオフには都内の温泉を楽しむ
 
 ### 最後に
-日常は音の旋律と共に始まり、週末は頂上を目指したり素敵な風景の中へ。常に新しいことに挑戦し、成長し続けていきたいと思っています。ポジティブな感情と冒険のスピリットを楽曲にも込めています。
+日常は音の旋律と共に始まり、週末は頂上を目指したり素敵な風景の中へ。
+常に新しいことに挑戦し、成長し続けていきたいと思っています。ポジティブな感情と冒険のスピリットを楽曲にも込めています。
 
-音楽は私の言葉で語ることのできない感情を伝える手段であり、登山や旅行は心をリセットし新たなアイデアを醸成する場所です。SNSでは日々の楽しみや感動をシェアし、あなたとのつながりを大切にしたいと思っています。一緒に新たな冒険へと出かけていけたら嬉しいです。
+音楽は私の言葉で語ることのできない感情を伝える手段であり、登山や旅行は心をリセットし新たなアイデアを醸成する場所です。
+SNSでは日々の楽しみや感動をシェアし、あなたとのつながりを大切にしたいと思っています。一緒に新たな冒険へと出かけていけたら嬉しいです。
 
-さあ、音楽と風景の中へ共に旅立ちましょう。興味のある方、ご連絡ください。どうぞよろしくお願いします！
+さあ、音楽と風景の中へ共に旅立ちましょう。
+
+興味のある方、ご連絡ください。どうぞよろしくお願いします！
 
 </details>
 
