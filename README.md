@@ -13,6 +13,7 @@
 
 
 ## 🔗 Official Links & Portfolio / 実績・活動リンク
+You can currently view the corporation's overall business operations and portfolio via the official channels listed below and the details section of this README.
 当法人の事業実態およびポートフォリオは、以下の公式チャンネルおよび本READMEの詳細セクションよりご確認いただけます。
 
 * **🎵 Music Production & Release**
