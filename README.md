@@ -124,3 +124,7 @@ You can currently view the corporation's overall business operations and portfol
   * [その他: ホームページ等](https://ryu.theblog.me/)
 * **💻 IT Development**
   * Details regarding my development track record and technology stack as an IT developer are provided in the "IT Developer Background" section at the top of this page. / 本ページ上部のITデベロッパーとしてのキャリアに開発実績・技術スタックを記載しています。
+
+
+
+© 2026 NodeChord LLC. All rights reserved. 
