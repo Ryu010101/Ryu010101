@@ -1,32 +1,3 @@
-# Godo Kaisha NodeChord / 合同会社NodeChord
-## 🏢 Corporate Profile / 法人概要
-**Godo Kaisha NodeChord** is a multi-disciplinary company operating in IT system development and music content production, founded to sublimate long-standing freelance and creative expertise into corporate-grade reliability.
-
-**合同会社NodeChord**は、長年のフリーランスとしての技術支援実績およびクリエイティブ活動を基盤に、ITシステム開発・保守、および音楽コンテンツ制作事業を展開する法人です。
-
-* **Representative / 代表社員:** Ryunosuke Suehiro (末廣 竜之助)
-* **Established / 設立:** May 2026 (2026年5月)
-* **Core Businesses / 事業内容:**
-  * 💻 IT Engineering, Cloud Architecture, & Backend Development
-  * 🎵 Music Production, DTM, Sound Design, & Independent Label Management
-
-
-
-## 🔗 Official Links & Portfolio / 実績・活動リンク
-You can currently view the corporation's overall business operations and portfolio via the official channels listed below and the details section of this README.
-
-当法人の事業実態およびポートフォリオは、以下の公式チャンネルおよび本READMEの詳細セクションよりご確認いただけます。
-
-* **🎵 Music Production & Release**
-  * [Single Release: 「キミだけの未踏へ」配信リンク](https://www.youtube.com/watch?v=eGLjZdnbh-c)
-  * [YouTube Channel: 音楽活動・MV等](https://www.youtube.com/channel/UCV8-dx5Z_JScgiERECl4P-w)
-  * [SNS: インスタグラム等](https://www.instagram.com/ryunosuke.suehiro/)
-  * [その他: ホームページ等](https://ryu.theblog.me/)
-* **💻 IT Development**
-  * Scroll down to see my OSS contributions, repositories, and full tech stack. / 本ページ下部に開発実績・技術スタックを記載しています。
-
----
-
 # Professional Profile
 <img width="2559" height="925" alt="スクリーンショット 2025-09-15 184810" src="https://github.com/user-attachments/assets/c59d6e89-9247-44e0-904b-7f67ddc52c7b" />
 
@@ -47,7 +18,7 @@ For the past six years, I've worked as a freelance IT developer, building elegan
 Music has been my companion for 16 years. My journey began on the streets of Sapporo, a path that led me to performing on stages across Tokyo and eventually signing with an indie record label. After three years of valuable experience, I knew I needed to forge my own path to create with complete authenticity. Today, I run my own independent label, giving me the freedom to produce music that is truly honest and uniquely mine.
 
 **Music Style:**
-* **A high-energy fusion of Rock, Progressive Metal, and EDM.** I aim to create a unique soundscape inspired by a diverse range of artists, including **DGM, Avicii, BUMP OF CHICKEN, and Mr.Children.**
+* **A high-energy fusion of Rock, Progressive Metal, and EDM.** I aim to create a unique soundscape inspired by a diverse range of artists, including **DGM, Avicii, X Japan, SPYAIR, BUMP OF CHICKEN, and Mr.Children.**
 
 
 ## **Hobbies**
@@ -71,7 +42,7 @@ Let's start a new adventure together.
 #### 居住地: 東京、北海道出身
 
 ### ITデベロッパーとしてのキャリア
-- 平日はフリーランスITデベロッパー（活動歴6年目）
+- 平日はフリーランスITデベロッパー（活動歴7年目）
 - 直近の業務としてはバックエンド開発、API新規・保守開発、リファクタリング、セキュリティ対応などの技術支援
 - その他フロントエンド開発やインフラ領域にも豊富な経験があり過去に技術支援した実績あり
 -  基本設計～開発～テスト～保守、技術選定のコンサルティングなど幅広い業務に対応可能
@@ -80,7 +51,7 @@ Let's start a new adventure together.
 - PJチーム間でのコミュニケーション能力が高く、人材派遣の営業経験も
 
 ### シンガーソングライターとしての活動
-- 週末シンガーソングライター（活動歴16年目）
+- 週末シンガーソングライター（活動歴17年目）
 - 主にDTMでオリジナル曲を作成し、サブスクリプションで配信を行う
 - 近年は、SNSで即興ソングショート動画を投稿
 - 北海道札幌市の狸小路商店街でのストリートライブライブからキャリアスタート
@@ -88,7 +59,7 @@ Let's start a new adventure together.
 - 約3年間の所属を経て、より自由により正直な表現活動を突き詰めるため、現在は個人レーベルを立ち上げ再びフリーランスへ
 ### 特徴
 - ロックやプログレッシブメタルとEDMを組み合わせたようなアグレッシブな曲が特徴
-- アナログとデジタルの融合サウンドをコンセプトに持ち、音楽性のルーツは「DGM」「avicii」「BUMP OF CHICKEN」「Mr.Children」
+- アナログとデジタルの融合サウンドをコンセプトに持ち、音楽性のルーツは「DGM」「avicii」「X Japan」「SPYAIR」「BUMP OF CHICKEN」「Mr.Children」
 
 ### 趣味
 - 登山と旅行が趣味
@@ -109,3 +80,38 @@ SNSでは日々の楽しみや感動をシェアし、あなたとのつなが�
 
 さあ、音楽と風景の中へ共に旅立ちましょう。
 興味のある方、ご連絡ください。どうぞよろしくお願いします！
+
+---
+
+# Management / 運営・マネジメント
+## Godo Kaisha NodeChord / 合同会社NodeChord
+### ✉Contact:
+* nodechord.info@gmail.com
+### 🏢 Corporate Profile / 法人概要
+**Godo Kaisha NodeChord** is a multi-disciplinary company operating in IT system development and music content production, founded to sublimate long-standing freelance and creative expertise into corporate-grade reliability.
+
+**合同会社NodeChord**は、長年のフリーランスとしての技術支援実績およびクリエイティブ活動を基盤に、ITシステム開発・保守、および音楽コンテンツ制作事業を展開する法人です。
+
+* **Representative / 代表社員:** Ryunosuke Suehiro (末廣 竜之助)
+* **Established / 設立:** May 2026 (2026年5月)
+* **Core Businesses / 事業内容:**
+  * 💻 IT Engineering, Cloud Architecture, & Backend Development
+  * 🎵 Music Production, DTM, Sound Design, & Independent Label Management
+
+
+
+### 🔗 Official Links & Portfolio / 実績・活動リンク
+You can currently view the corporation's overall business operations and portfolio via the official channels listed below and the details section of this README.
+
+当法人の事業実態およびポートフォリオは、以下の公式チャンネルおよび本READMEの詳細セクションよりご確認いただけます。
+
+* **🎵 Music Production & Release**
+  * [Single Release: 「キミだけの未踏へ」配信リンク](https://www.youtube.com/watch?v=eGLjZdnbh-c)
+  * [YouTube Channel: 音楽活動・MV等](https://www.youtube.com/channel/UCV8-dx5Z_JScgiERECl4P-w)
+  * [SNS: インスタグラム等](https://www.instagram.com/ryunosuke.suehiro/)
+  * [その他: ホームページ等](https://ryu.theblog.me/)
+* **💻 IT Development**
+  * Details regarding my development track record and technology stack as an IT developer are provided in the "IT Developer Background" section at the top of this page.
+ / 本ページ上部のITデベロッパーとしてのキャリアに開発実績・技術スタックを記載しています。
+
+---
