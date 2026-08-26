@@ -7,6 +7,26 @@
 
 ---
 
+<div align="center">
+ 
+### 🎸 Cheer Project / 応援プロジェクト
+  **Unlock exclusive content when we hit the target!**  
+  <sub>目標達成で限定コンテンツをアンロック！</sub>
+  <br>
+  <img src="https://dynamic-readme.vaiozryu.workers.dev/progress.svg" alt="Cheer Progress Bar" />
+  <br>
+  <br>
+  <a href="https://dynamic-readme.vaiozryu.workers.dev/cheer">
+    <img src="https://img.shields.io/badge/🔥_Cheer_Once_a_Day!_/_1日1回応援-007bff?style=for-the-badge" alt="Cheer Button" />
+  </a>
+  <p>
+   <sub>※ Vote once per day. Reach 100 cheers to unlock secret content!<br>（1日1回投票可能。100票達成で限定コンテンツが解放されます！）
+   </sub>
+  </p>
+</div>
+
+---
+
 ## 💻 Career as an IT Developer
 For the past seven years, I've worked as a freelance IT developer, building elegant and robust digital solutions. My expertise lies in backend systems—designing APIs, refactoring code for peak performance, and implementing security enhancements. However, I am a versatile developer with extensive experience in front-end and infrastructure as well, comfortable across the entire project lifecycle, from the initial design blueprint to long-term maintenance.
 
