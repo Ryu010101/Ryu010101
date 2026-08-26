@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/🔥_Cheer_Once_a_Day!_/_1日1回応援-007bff?style=for-the-badge" alt="Cheer Button" />
   </a>
   <p>
-   <sub>※ Vote once per day. Reach 100 cheers to unlock secret content!<br>（1日1回投票可能。100票達成で限定コンテンツが解放されます！）
+   <sub>※ Vote once per day. Reach 300 cheers to unlock secret content!<br>（1日1回投票可能。300票達成で限定コンテンツが解放されます！）
    </sub>
   </p>
 </div>
