@@ -7,7 +7,6 @@
 
 ---
 
-<!-- 応援プロジェクト セクション (Global Edition) -->
 <div align="center">
  
 ### 🎸 Cheer Project / 応援プロジェクト
