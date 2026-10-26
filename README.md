@@ -1,5 +1,5 @@
 # Professional Profile
-<img width="2559" height="925" alt="スクリーンショット 2025-09-15 184810" src="https://github.com/user-attachments/assets/c59d6e89-9247-44e0-904b-7f67ddc52c7b" />
+<img width="2559" height="1080" alt="Spotify アー写" src="https://github.com/user-attachments/assets/0e7a978d-eaf6-4a14-a43a-1c5347528c1b" />
 
 ### Name: Ryunosuke Suehiro (Ryu)
 ### Education: Specialized in Sound Techniques, Sapporo Visual Arts School
