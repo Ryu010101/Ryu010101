@@ -138,13 +138,13 @@ You can currently view the corporation's overall business operations and portfol
 当法人の事業実態およびポートフォリオは、以下の公式チャンネルおよび本READMEの詳細セクションよりご確認いただけます。
 
 * **🎵 Music Production & Release**
+  * [Single Release: 「Dream Believer: RE」配信リンク](https://youtu.be/a5GGQxQjDcE)
   * [Single Release: 「キミだけの未踏へ」配信リンク](https://www.youtube.com/watch?v=eGLjZdnbh-c)
   * [YouTube Channel: 音楽活動・MV等](https://www.youtube.com/channel/UCV8-dx5Z_JScgiERECl4P-w)
   * [SNS: インスタグラム等](https://www.instagram.com/ryunosuke.suehiro/)
-  * [その他: ホームページ等](https://ryu.theblog.me/)
 * **💻 IT Development**
   * Details regarding my development track record and technology stack as an IT developer are provided in the "IT Developer Background" section at the top of this page. / 本ページ上部のITデベロッパーとしてのキャリアに開発実績・技術スタックを記載しています。
 
 
 
-© 2026 NodeChord LLC. All rights reserved. 
+© 2026 NodeChord LLC All rights reserved. 
