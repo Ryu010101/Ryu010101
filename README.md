@@ -46,7 +46,7 @@ For the past seven years, I've worked as a freelance IT developer, building eleg
 Music has been my companion for 17 years. My journey began on the streets of Sapporo, a path that led me to performing on stages across Tokyo and eventually signing with an indie record label. After three years of valuable experience, I knew I needed to forge my own path to create with complete authenticity. Today, I run my own independent label, giving me the freedom to produce music that is truly honest and uniquely mine.
 
 **Music Style:**
-* **A high-energy fusion of Rock, Progressive Metal, and EDM.** I aim to create a unique soundscape inspired by a diverse range of artists, including **DGM, Avicii, X Japan, SPYAIR, BUMP OF CHICKEN, and Mr.Children.**
+* **A high-energy fusion of Alternative Rock, EDM.** I aim to create a unique soundscape inspired by a diverse range of artists, including **DGM, Avicii, X Japan, SPYAIR, BUMP OF CHICKEN, and Mr.Children.**
 
 ---
 
@@ -92,7 +92,7 @@ I love sharing these moments and connecting with new people. If you're intereste
 * 約3年間の所属を経て、より自由により正直な表現活動を突き詰めるため、現在は個人レーベルを立ち上げ再びフリーランスへ
 
 **特徴**
-* ロックやプログレッシブメタルとEDMを組み合わせたようなアグレッシブな曲が特徴
+* Alternative RockとEDMを組み合わせたようなアグレッシブな曲が特徴
 * アナログとデジタルの融合サウンドをコンセプトに持ち、音楽性のルーツは「DGM」「avicii」「X Japan」「SPYAIR」「BUMP OF CHICKEN」「Mr.Children」
 
 ### 趣味
